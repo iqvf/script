@@ -17,6 +17,9 @@ New Fixes:
 Fixes coming up:
 - Nothing.
 
+Possible issues:
+- Client crashes, stay on the game and the client *shouldn't* crash, if it does it's most likely the server hop.
+
 **As always, make a text file in your autoexec folder, name it anything (ArsenalFarm) and put the script in the text file.**
 
 
