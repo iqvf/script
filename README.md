@@ -18,7 +18,7 @@ Fixes coming up:
 - Nothing.
 
 Possible issues:
-- Client crashes, stay on the game and the client *shouldn't* crash, if it does it's most likely the server hop.
+- Client crashes, stay on the game and the client *shouldn't* crash, if it does it's most likely the server hop or your executor (no issues with Synapse only client crashes when i'm tabbed out of Roblox)
 
 **As always, make a text file in your autoexec folder, name it anything (ArsenalFarm) and put the script in the text file.**
 
