@@ -1,3 +1,5 @@
+***PATCHED***
+
 New updated script:
 ```
 getgenv().Rendering = false -- Change it to true if you want it enabled.
